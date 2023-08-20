@@ -4,7 +4,7 @@ import os
 commands = [
     "git clone https://github.com/bugineverything/bugnote",
     "cd bugnote",
-    "echo 1>new",
+    "echo 1>zxc",
     "git init",
     "git remote add origin https://github.com/bugineverything/bugnote",
     "git branch -M main",
